@@ -1,4 +1,8 @@
-# Next Word Suggestions
+![Next word prediction](https://github.com/SayedShaun/Next-Word-Suggestions/assets/126845316/84698998-87e2-4791-aabf-57ff11b697da)
+
+Live Demo: https://next-word-suggestion.streamlit.app
+
+## Next Word Suggestions
 
 Welcome to my Next Word Suggestions project repository! This project focuses on generating predictive next-word suggestions using Deep Learning.
 
