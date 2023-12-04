@@ -4,7 +4,7 @@ Live Demo: https://next-word-suggestion.streamlit.app
 
 ## Next Word Suggestions
 
-Welcome to my Next Word Suggestions project repository! This project focuses on generating predictive next-word suggestions using Deep Learning.
+Welcome to my Next Word Suggestions project repository! This project aims to create a next-word prediction system using LSTM neural networks and word embeddings. It involves training the model to understand language context and accurately suggest the next word in a sequence of text. The process includes data preprocessing, building an LSTM architecture with word embeddings, training the model, and evaluating its accuracy to deploy a system that offers contextually relevant word suggestions.
 
 ## Overview
 
