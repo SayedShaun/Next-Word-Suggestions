@@ -1,4 +1,4 @@
-![Next word prediction](https://github.com/SayedShaun/Next-Word-Suggestions/assets/126845316/84698998-87e2-4791-aabf-57ff11b697da)
+![NWS Demo](https://github.com/SayedShaun/Next-Word-Suggestions/assets/126845316/3e7566fd-c982-4a2b-a52a-2be40001d32d)
 
 Live Demo: https://next-word-suggestion.streamlit.app
 
